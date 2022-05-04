@@ -1,3 +1,5 @@
+import "./styles/emailActions.css";
+
 function EmailActions() {
   return (
     <section className="email-actions">

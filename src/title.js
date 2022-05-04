@@ -1,3 +1,5 @@
+import "./styles/title.css";
+
 function Title() {
   return (
     <div className="title">

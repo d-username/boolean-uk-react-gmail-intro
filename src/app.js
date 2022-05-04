@@ -1,4 +1,5 @@
 import "./styles/app.css";
+import "./styles/content.css";
 
 import AppWrapper from "./appWrapper";
 import Header from "./header.js";

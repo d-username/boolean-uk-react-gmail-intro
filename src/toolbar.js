@@ -2,6 +2,8 @@ import rubbishButton from "./assets/icons/rubbish-bin-delete-button.png";
 import downloadButton from "./assets/icons/download-button.png";
 import backArrow from "./assets/icons/back-arrow.png";
 
+import "./styles/toolbar.css";
+
 function Toolbar() {
   return (
     <nav className="email-toolbar">
